@@ -22,6 +22,6 @@ design:
   columns: "1"
   view: 3
   background:
-    image: aiicon.png
+    image: ""
   spacing: {}
 ---
