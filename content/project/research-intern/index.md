@@ -1,5 +1,5 @@
 ---
-title: Research Intern
+title: "Research Intern | Bosch "
 subtitle: Oct 2021 – Present - Remote (Bangalore)
 date: 2022-01-14T16:36:41.598Z
 draft: false
