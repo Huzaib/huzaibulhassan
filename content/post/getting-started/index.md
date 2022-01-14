@@ -1,6 +1,6 @@
 ---
-title: Biography
-subtitle: Something About Me
+title: Something About Me
+subtitle: Wanna get to know me?
 date: 2022-01-14T16:29:44.703Z
 summary: ""
 draft: false
