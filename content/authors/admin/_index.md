@@ -1,6 +1,7 @@
 ---
 title: Huzaib Ul Hassan
 role: ""
+avatar_filename: huzaib.png
 bio: ""
 social:
   - icon: envelope
