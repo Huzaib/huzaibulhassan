@@ -1,5 +1,5 @@
 ---
-title: Research Intern
+title: Research Intern | SkyLarl Labs
 subtitle: June 2021 - Remote (India)
 date: 2022-01-14T16:43:00.957Z
 draft: false
