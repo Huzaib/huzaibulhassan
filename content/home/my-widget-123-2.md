@@ -1,6 +1,6 @@
 ---
 widget: Experience
-widget_id: my-widget-123
+widget_id: CGAN
 headless: true
 weight: 10
 title: CGAN Implementation
