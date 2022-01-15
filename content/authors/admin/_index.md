@@ -20,6 +20,11 @@ social:
     icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/huzaib-ul-hassan/
+  - display:
+      header: false
+    link: https://drive.google.com/file/d/1_sEgbdoTkIKVrbYuGjkaFaGZpPOFeouM/view?usp=sharing
+    icon_pack: fab
+    icon: google-drive
 organizations:
   - name: Indian Institute Of Technology Roorkee
     url: ""
