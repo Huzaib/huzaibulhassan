@@ -15,6 +15,11 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/huzaibulhassan/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: linkedin
+    link: https://www.linkedin.com/in/huzaib-ul-hassan/
 organizations:
   - name: Indian Institute Of Technology Roorkee
     url: ""
