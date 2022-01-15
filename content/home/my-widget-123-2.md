@@ -1,5 +1,5 @@
 ---
-widget: Experience
+widget: experience
 widget_id: CGAN
 headless: true
 weight: 10
