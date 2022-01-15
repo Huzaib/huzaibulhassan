@@ -1,6 +1,6 @@
 ---
 widget: Experience
-widget_id: SkyLark
+widget_id: SkyLark Labs
 headless: true
 weight: 10
 title: Research Intern | SkyLark Labs
