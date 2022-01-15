@@ -1,7 +1,7 @@
 ---
 title: Huzaib Ul Hassan
 role: ""
-avatar_filename: huzaib.png
+avatar_filename: ""
 bio: ""
 social:
   - icon: envelope
@@ -32,6 +32,8 @@ superuser: true
 status:
   icon: ☕️
 ---
+![My Photo](huzaib.png)
+
 I am a pre-final year B.Tech undergrad at the Indian Institute Of Technology, Roorkee. My interests include self-supervised learning, generative modeling, computer vision, and natural language processing. 
 
 Currently, I have been working with Bosch as a computer vision research intern on improving the quality of segmentation datasets through self-supervised learning techniques. Last Summer, I undertook an internship with SkyLark labs where I worked on the implementation of super-resolution GANs for night to day video conversion and further worked on reducing the memory footprint of the model using depthwise separable ConvNets, model distillation, and involution layers. Previously I have worked on conversational AI chatbots, conditional GANs, flood predictions, semantic segmentation, time-series predictions, and recommender systems. 
