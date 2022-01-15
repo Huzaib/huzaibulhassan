@@ -1,35 +1,42 @@
 widget: experience
 headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
-
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with `>-`.
 experience:
-  - title: 'CEO'
-    company: 'GenCoin'
+  - title: 'Research Intern'
+    company: 'Bosch'
     company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
-    date_end: ''
+    location: 'Remote (Bangalore)'
+    date_start: 'Oct 2021'
+    date_end: 'Feb 2022'
     description: >-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Worked on research-based applications of self-supervised learning on vehicle and driving oriented datasets
+        * Applied state of the art methods on the BDD100K dataset to achieve appreciable downstream predictions
+        * Utilized contrastive learning-based approaches for imparting quality check on vehicle-based segmentation labels
         
-  - title: 'Professor'
-    company: 'University X'
+  - title: 'Research Intern'
+    company: 'SkyLark Labs'
     company_url: ''
-    location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+    location: 'Remote (India)'
+    date_start: '2021-06-01'
+    date_end: '2021-06-31'
+    description: >-
+        • Enhanced night videos using SRGANs based super-resolution technique combining content and adversarial losses
+
+        • Generated the training data artificially due to constraints of day-night video data collection
+
+        • Combined techniques including Depthwise ConvNets, involutions, and distillation to reduce the memory footprint
+
+  - title: 'CGAN Implementation'
+    company: 'Vision and Language Group, ACM IIT Roorkee'
+    company_url: ''
+    location: 'Roorkee, India'
+    date_start: '01-04-2021'
+    date_end: '30-04-2021'
+    description: >-
+        • Trained a conditional generative adversarial network on MNIST dataset for artificial digit generation
+
+        • Tuned the hyperparameters in order to get indistinguishable images and avoid mode collapse
+
+        • Conditioned the generated images on the basis of labels of the particular numbers and delivered a workshop
