@@ -1,5 +1,5 @@
 ---
-widget: Experience
+widget: portfolio
 widget_id: BOSCH
 headless: true
 weight: 20
