@@ -5,13 +5,10 @@ date: 2022-01-14T16:29:44.703Z
 summary: ""
 draft: false
 featured: false
-authors:
-  - admin
-  - 美杨
+authors: []
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
-  - Academic
-  - 开源
+  - portfolio
 categories: []
 projects: []
 image:
@@ -19,7 +16,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: biography.jpg
+  filename: featured.jpg
 ---
 I am a pre-final year B.Tech undergrad at the Indian Institute Of Technology, Roorkee. My interests include self-supervised learning, generative modeling, computer vision, and natural language processing. 
 
