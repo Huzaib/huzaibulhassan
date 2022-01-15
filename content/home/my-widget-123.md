@@ -1,8 +1,8 @@
 ---
 widget: Experience
-widget_id: my-widget-123
+widget_id: BOSCH
 headless: true
-weight: 10
+weight: 20
 title: "Research Intern | Bosch "
 subtitle: Oct 2021 – Present - Remote (Bangalore)
 active: true
